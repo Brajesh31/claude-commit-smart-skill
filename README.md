@@ -15,3 +15,7 @@ A context-aware Git commit skill that analyzes staged changes and prepares meani
 ## Usage
 
 Use when you want commit type and scope inferred from the actual diff rather than guessed from a short prompt. See `SKILL.md` for the full procedure and safety rules.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
